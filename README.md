@@ -1,5 +1,13 @@
 # Data Analyst
-#### Technical Skills: Python, SQL, Power BI, Excel, MySQL, Regression, Clustering
+#### Technical Skills: Python, SQL, Tableau, Power BI, Excel, MySQL, Regression, Clustering
+
+I am a dedicated and results-driven Data Analyst with a passion for translating complex data into actionable insights.
+
+Throughout my career, I have leveraged advanced analytical techniques and programming skills in Python, SQL, and Tableau to deliver impactful solutions that drive business growth. My expertise lies in data visualization and statistical analysis, allowing me to uncover trends, patterns, and correlations that inform strategic decisions.
+
+My approach combines a keen attention to detail with a commitment to delivering insights that drive operational efficiencies and revenue optimization.
+
+Outside of work, I am passionate about Machine Learning and AI. I continuously seek to expand my knowledge through various data analytical courses.
 
 ### Education
 #### Islamic Jurisprudence and Foundations, Bachelor's Degree
