@@ -22,5 +22,5 @@ Overview:
 - Perform various acions like proposing strategies for improvement for underperforming universities.
   
 - Tools/Languages Used: Excel.
-- Results: Achieved 85% accuracy in predicting future sales, aiding inventory management decisions.
+
 https://docs.google.com/spreadsheets/d/1HPD9Y4F3ZNrKxS75QN2URy8RU7CTvRJIPP1Aa731tHA/edit?usp=drive_link
