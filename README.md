@@ -10,10 +10,10 @@ My approach combines a keen attention to detail with a commitment to delivering 
 Outside of work, I am passionate about Machine Learning and AI. I continuously seek to expand my knowledge through various data analytical courses.
 
 ### Education
-#### Islamic Jurisprudence and Foundations, Bachelor's Degree
+Islamic Jurisprudence and Foundations, Bachelor's Degree
 
 ### Certifications
-#### Bells Institute of Higher Learning: Data Analytics
+Bells Institute of Higher Learning: Data Analytics
 
 ### Work Experience
 #### Search Engine Evaluator, Quality Assuarance @ Centific Global Solutions
